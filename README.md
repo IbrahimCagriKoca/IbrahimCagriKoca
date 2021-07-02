@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm İbrahim Çağrı Koca
 
-🌱 I’m currently working with JS, React.js, Redux.js etc.
+🌱 I’m currently working with JS, React.js, Redux.js etc. <br>
 📫 How to reach me: ibrahincagrikoca@gmail.com
 
 <!--
